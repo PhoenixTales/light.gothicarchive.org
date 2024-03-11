@@ -1,2 +1,0 @@
-12K	./favicon.ico
-1.0K	./CNAME
